@@ -64,3 +64,7 @@ group :development do
   # gem "spring"
 end
 
+
+gem "prawn", "~> 2.4"
+
+gem "listen", "~> 3.8"
